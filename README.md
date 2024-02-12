@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SudhirGhagare
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently Pursuing My UnderGraduate degree from SSGMCE,Shegaon 
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
